@@ -20,6 +20,5 @@ class DataManager {
 
         course = CourseInfo("java_core", "Java Fundamentals: The Core Platform")
         courses[course.courseId] = course
-
     }
 }
